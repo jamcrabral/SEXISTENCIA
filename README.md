@@ -15,7 +15,7 @@ algun problema de la misma manera compunicarse con su provedor para propocionar 
 credenciales nuevas o ya sea tambien revisar las anteriores.
 
 # URL:
-http://cedistabasco.ddns.net:9085/sexistencia
+http://url:9085/sexistencia
 
 # Método:
 Post
